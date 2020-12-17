@@ -4,8 +4,11 @@
 ### 🚀 Execução
 
 1ª Dentro da pastas app-hello-js
+    
     - hello: Namespace
+
     - app-hello: repositorio
+    
     - v1: Tag da imagem
 
 ```console
